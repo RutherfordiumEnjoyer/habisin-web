@@ -4,7 +4,6 @@
 |----|------------------------|------------|
 | 1  | Mohammad Abyan Ranuaji | 5027241106 |
 
----
 
 ## 1. Deskripsi Singkat
 Habisin! adalah aplikasi web berbasis MERN Stack (MongoDB, Express, React, Node.js) yang bertujuan untuk mengurangi limbah makanan di lingkungan kampus (Zero Waste) sekaligus membantu mahasiswa menghemat pengeluaran. Aplikasi ini menghubungkan panitia acara atau individu yang memiliki makanan berlebih dengan mahasiswa yang membutuhkan secara real-time.
@@ -14,14 +13,14 @@ Di lingkungan kampus, sering terjadi dua kondisi kontradiktif:
 1.  Food Waste: Banyak sisa konsumsi dari seminar, rapat organisasi, atau acara kampus yang berakhir di tempat sampah karena bingung harus dibagikan ke mana.
 2.  Food Insecurity: Banyak mahasiswa yang mencari cara untuk berhemat, namun informasi mengenai makanan gratis seringkali tersebar tidak merata (hanya via mulut ke mulut atau grup WhatsApp tertutup).
 3.  Lack of Information: Sulit mengetahui lokasi pasti dan ketersediaan makanan secara akurat tanpa platform terpusat.
-4.  
+
 ## 3. Solusi yang Dibuat (Solution Overview)
 Habisin! hadir sebagai platform sentralisasi informasi makanan gratis dengan pendekatan visual dan gamifikasi:
 * Peta Interaktif: Menggunakan peta kampus kustom untuk memvisualisasikan lokasi makanan secara presisi.
 * Real-time Update: Status makanan (masih ada/habis) dapat dipantau langsung.
 * Gamifikasi: Sistem poin dan leaderboard untuk memotivasi "donatur" agar rajin berbagi.
 * Visual & Audio Feedback: UX yang interaktif dengan notifikasi suara dan animasi halus untuk pengalaman pengguna yang lebih baik.
-* 
+
 ## 4. Tech Stack & Fitur Utama
 
 ### Tech Stack
